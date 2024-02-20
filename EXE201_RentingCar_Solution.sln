@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentingCarAPI", "RentingCarAPI\RentingCarAPI.csproj", "{6137106C-8802-4C6C-BACE-4485C86021F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RentingCarAPI", "RentingCarAPI\RentingCarAPI.csproj", "{6137106C-8802-4C6C-BACE-4485C86021F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessObjects", "BusinessObjects\BusinessObjects.csproj", "{C7B4FA23-BBAA-45C7-B30F-7C45BD63F375}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessObjects", "BusinessObjects\BusinessObjects.csproj", "{C7B4FA23-BBAA-45C7-B30F-7C45BD63F375}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentingCarDAO", "RentingCarDAO\RentingCarDAO.csproj", "{CB3D95AF-BA75-4269-9F73-530A847A8B59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RentingCarDAO", "RentingCarDAO\RentingCarDAO.csproj", "{CB3D95AF-BA75-4269-9F73-530A847A8B59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentingCarRepositories", "RentingCarRepositories\RentingCarRepositories.csproj", "{315CD274-BC8A-4E10-93F2-0B5C75CB84DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RentingCarRepositories", "RentingCarRepositories\RentingCarRepositories.csproj", "{315CD274-BC8A-4E10-93F2-0B5C75CB84DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentingCarServices", "RentingCarServices\RentingCarServices.csproj", "{A7C92D78-CE9D-4E91-95D6-41BFA802C262}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RentingCarServices", "RentingCarServices\RentingCarServices.csproj", "{A7C92D78-CE9D-4E91-95D6-41BFA802C262}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
